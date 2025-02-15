@@ -181,3 +181,13 @@
 //   }
 // }
 // fizzBuzz(16);
+// function getCommonElements(array1, array2) {
+//   let newArray = [];
+//   for (let i = 0; i <= array1.length - 1; i++) {
+//     if (array2.includes(array1[i])) {
+//       newArray.push(array1[i]);
+//     }
+//   }
+//   return newArray;
+// }
+// getCommonElements([1, 2, 3], [2, 4]);
