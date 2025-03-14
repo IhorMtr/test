@@ -76,23 +76,23 @@
 // Зверніть увагу, що в масиві може бути кілька обʼєктів з однаковою
 // назвою фрукта, це також треба урахувати.
 
-const fruits = [
-  { name: 'Яблуко', price: 45, quantity: 7 },
-  { name: 'Апельсин', price: 60, quantity: 4 },
-  { name: 'Банан', price: 125, quantity: 8 },
-  { name: 'Груша', price: 350, quantity: 2 },
-  { name: 'Виноград', price: 440, quantity: 3 },
-  { name: 'Банан', price: 125, quantity: 3 },
-];
+// const fruits = [
+//   { name: 'Яблуко', price: 45, quantity: 7 },
+//   { name: 'Апельсин', price: 60, quantity: 4 },
+//   { name: 'Банан', price: 125, quantity: 8 },
+//   { name: 'Груша', price: 350, quantity: 2 },
+//   { name: 'Виноград', price: 440, quantity: 3 },
+//   { name: 'Банан', price: 125, quantity: 3 },
+// ];
 
-function calcTotalPrice(fruits, fruitName) {
-  let totalPrice = 0;
-  for (const fruit of fruits) {
-    if (fruit.name === fruitName) {
-      totalPrice += fruit.price * fruit.quantity;
-    }
-  }
-  return totalPrice;
-}
+// function calcTotalPrice(fruits, fruitName) {
+//   let totalPrice = 0;
+//   for (const fruit of fruits) {
+//     if (fruit.name === fruitName) {
+//       totalPrice += fruit.price * fruit.quantity;
+//     }
+//   }
+//   return totalPrice;
+// }
 
-console.log(calcTotalPrice(fruits, 'Виноград'));
+// console.log(calcTotalPrice(fruits, 'Виноград'));
