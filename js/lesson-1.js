@@ -1,3 +1,10 @@
+//lalalsdlad';asd;gfasdf//lalalsdlad';asd;gfasdf
+//lalalsdlad';asd;gfasdf//lalalsdlad';asd;gfasdf
+//lalalsdlad';asd;gfasdf
+//lalalsdlad';asd;gfasdf
+//lalalsdlad';asd;gfasdf
+//lalalsdlad';asd;gfasdf
+//lalalsdlad';asd;gfasdf
 // Запропонуйте користувачу ввести число за допомогою prompt().
 // Збережіть введене значення у змінну number.
 // Перевірте, чи дорівнює змінна number числу 10:
