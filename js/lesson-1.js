@@ -5,6 +5,24 @@
 //lalalsdlad';asd;gfasdf
 //lalalsdlad';asd;gfasdf
 //lalalsdlad';asd;gfasdf
+//lalalsdlad';asd;gfasdf
+//lalalsdlad';asd;gfasdf
+// Збережіть введене значення у змінну number.
+//lalalsdlad';asd;gfasdf
+//lalalsdlad';asd;gfasdf
+//lalalsdlad';asd;gfasdf
+//lalalsdlad';asd;gfasdf
+//lalalsdlad';asd;gfasdf
+//lalalsdlad';asd;gfasdf
+//lalalsdlad';asd;gfasdf
+//lalalsdlad';asd;gfasdf
+// Збережіть введене значення у змінну number.
+//lalalsdlad';asd;gfasdf
+//lalalsdlad';asd;gfasdf
+//lalalsdlad';asd;gfasdf
+//lalalsdlad';asd;gfasdf
+//lalalsdlad';asd;gfasdf
+// Збережіть введене значення у змінну number.
 // Збережіть введене значення у змінну number.
 // Збережіть введене значення у змінну number.
 // Збережіть введене значення у змінну number.
